@@ -16,7 +16,7 @@ dist/
 *.sig
 
 pkg/
-src/
+
 
 .DS_Store
 *.swp
